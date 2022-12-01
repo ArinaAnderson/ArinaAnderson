@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Currently learning React.js and looking to work as a frontend developer</h3>
@@ -11,7 +10,9 @@
 </p>
 <h3>Find me in:</h3>
 <p>
-  <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
+  <a href="https://www.codewars.com/users/gvenya">
+    <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
+  </a>
 </p>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -24,10 +25,8 @@
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <table align="center">
   <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinaanderson&show_icons=true&locale=en&layout=compact" alt="arinaanderson" />
-  </td>
-  <td>
     <img src="https://github-readme-stats.vercel.app/api?username=arinaanderson&hide=stars,issues&show_icons=true&theme=radical" alt="ArinaAnderson's's Github Stats">
   </td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinaanderson&show_icons=true&locale=en&layout=compact" alt="arinaanderson" /></p>
+  <td>
+  </td>
 
