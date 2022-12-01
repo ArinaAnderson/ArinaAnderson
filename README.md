@@ -11,7 +11,7 @@
 </p>
 <p>
   Find me in:
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/gvenya/badges/micro" alt="Codewars Badge">
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
