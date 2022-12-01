@@ -9,22 +9,14 @@
   </a>
 </p>
 <h3>Find me in:</h3>
-<table>
-  <td>
-    <!--
-    <a href="https://www.linkedin.com/in/marina-zinchenko-webdev/">
-      <img width="40px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a>
-    <br>
-    -->
+  <p>
     <a href="https://www.codewars.com/users/gvenya">
-      <img src="https://www.codewars.com/users/gvenya/badges/small" alt="Codewars Badge">
+      <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
     </a>
-  </td>
-  <td>
+  </p>
+  <p>
     <img align="center" width="150" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
-  </td>
-</table>
+  </p>
 
 ---
 
