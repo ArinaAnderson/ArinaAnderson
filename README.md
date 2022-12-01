@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marina</h1>
-<h3 align="center">Currently learning React.js and looking to work as a frontend developer</h3>
+<h3 align="center">Currently learning React.js and looking to work as a Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,26 +9,55 @@
   </a>
 </p>
 <h3>Find me in:</h3>
-<p>
-  <a href="https://www.codewars.com/users/gvenya">
-    <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
-  </a>
-</p>
-</p>
+<table>
+  <td>
+    <!--
+    <a href="https://www.linkedin.com/in/marina-zinchenko-webdev/">
+      <img width="40px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a>
+    <br>
+    -->
+    <a href="https://www.codewars.com/users/gvenya">
+      <img src="https://www.codewars.com/users/gvenya/badges/small" alt="Codewars Badge">
+    </a>
+  </td>
+  <td>
+    <img align="center" width="150" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
+  </td>
+</table>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+   <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+   <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
    <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<table align="center">
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=arinaanderson&hide=stars,issues&show_icons=true&theme=radical" alt="ArinaAnderson's's Github Stats">
-  </td>
-  <td>
-  </td>
+   <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+   <img align="left" alt ="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   <img align="left" alt ="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+   <img align="left" alt="Gulp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+</p>
 
+<br>
+<br>
+
+<p align="left">
+   <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   <img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+   <img align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+   <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</p>
+<br>
+<br>
+<p>
+  <img style="padding-right:50px;" src="https://github-readme-stats.vercel.app/api?username=arinaanderson&hide=stars,issues&show_icons=true&theme=radical" alt="ArinaAnderson's's Github Stats">
+</p>
+
+<details>
+ <summary><h3>👨‍💻 Arina Anderson's Coding Journey</h3></summary>
+  I started my coding journey as
+  
