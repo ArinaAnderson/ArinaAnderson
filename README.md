@@ -11,7 +11,7 @@
 </p>
 <p>
   Find me in:
-  <img src="https://www.codewars.com/users/gvenya/badges/micro" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
