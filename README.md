@@ -19,7 +19,7 @@
   </td>
   <td>
     <p>
-      <img align="center" width="150" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
+      <img align="center" width="190" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
     </p>
   </td>
 </table>
