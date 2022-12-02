@@ -2,21 +2,27 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Currently learning React.js and looking to work as a Frontend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:marinagundersen@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-</p>
-<h3>Find me in:</h3>
-  <p>
-    <a href="https://www.codewars.com/users/gvenya">
-      <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
-    </a>
-  </p>
-  <p>
-    <img align="center" width="150" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
-  </p>
+<table>
+  <td>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="mailto:marinagundersen@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+      </a>
+    </p>
+    <h3>Find me in:</h3>
+    <p>
+      <a href="https://www.codewars.com/users/gvenya">
+        <img src="https://www.codewars.com/users/gvenya/badges/large" alt="Codewars Badge">
+      </a>
+    </p>
+  </td>
+  <td>
+    <p>
+      <img align="center" width="150" src="https://i.imgur.com/njCBTyd.png" alt="cat looking in a window">
+    </p>
+  </td>
+</table>
 
 ---
 
