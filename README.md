@@ -57,5 +57,13 @@
 
 <details>
  <summary><h3>👨‍💻 Arina Anderson's Coding Journey</h3></summary>
-  I started my coding journey as
+  After a few learning projects which inlvolved creating the frontend part of adaptive and interactive web sites, I got a chance to get experience of real working process in a team for a couple of months where we used Javascript, Sass, HMTL5 templates and Gulp.
+
+After that I felt I needeed to improve my frontend development skills and enrolled a learning programme in Hexlet. There, I got hang of working with tree data structures and building simple CLI Applications with use of commander.js and node modules. While building a RSS reader I learnt asynchronous Javascript and ways to handle asynchronous operations like Promises and await/async. To work with network requests I was using promise based HTTP client axios. To organize and manage texts in the RSS reader I used an internationalization-framework i18next. Finally, using Bootstrap helped to get a nice look of the app.
+
+Programming for me is like meditation. I am very happy that I made up my mind to change my profession. At 30 years old, I switched from economics to web development. I had been wanting to be a programmer ever since I was a teenager. But believing the stereotype that this industry is not for girls, I never tried. Right now, I am eagerly getting as much practical Web Development experience as I can, in order to catch up!
+
+Web development is so diverse, but I am especially drawn to web accessibility for everyone. It is a very important topic for me personally, because some members of my family members have visual and motor impairments. Web must be available to everyone. 
+
+I would love to participate in social projects, especially those that are related with nature and ecology, as saving our planet from turning into a lifeless desert is essential to me. Right now I help The Long Beach Spay and Neuter Foundation (LBSN, a non-profit animal rescue) maintain and implement any necessary changes to their website. I also design flyers for adoptable kittens and cats, which involves work with Adobe Photoshop.
   
